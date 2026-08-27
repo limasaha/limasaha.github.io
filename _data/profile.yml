@@ -22,17 +22,17 @@ orcid: 0009-0004-4672-8758
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. candidate in Applied Demography at the University of Texas at San Antonio, where I work in Multimorbidity
-    under the supervision of Dr. John Quarles. My research sits at the intersection 
-    of extended reality and artificial intelligence, focusing on cybersickness prediction, cognitive load estimation, and 
-    affective modeling in VR using multimodal physiological signals and deep learning.
+    I am a Ph.D. candidate in Applied Demography at the University of Texas at San Antonio, where I work in life course in Multimorbidity (Multiple Chronic Diseases) among US Older adults
+    under the supervision of Dr. Fernando Riosmena. My research foucuses how childhood disadvantages impacts on onset of Multimorbidity among US older adults, and midlife advantages and 
+    disadvantages has mediating effect in this association over time, foreign-born vs US-born older adults in the US. Additionally, I want to compare cross-nationally to investigate the 
+    cumulative disadavantges how it works for foreign-born vs US-born by considering two different country contexts.
   </p>
   <p>
-    My work has been published in venues including IEEE TVCG, IEEE ISMAR, IEEE VR, and ACM VRST.
+    My work has been presented in venues including the Population Association of America (PAA), Sociology & Demography Research Colloquium, and First Annual HCAP Research Forum; Graduate 
+    Student Appreciate Week Research (GSAW) Symposium; TexasPOP and International Conference on Aging in the Americas(ICAA).
   </p>
   <p>
-    Before joining UTSA, I worked as a Data Engineer at Bangladesh Bank and Robi Axiata, where I built large-scale 
-    ETL pipelines and data analytics systems. I bring a strong foundation in PyTorch, TensorFlow, computer vision, and AR/VR development.
+    After joining UTSA, I worked as a Diversity, Equity, and Inclusion Summer Research Intern at American Institutes for Research 
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
