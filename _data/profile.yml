@@ -24,7 +24,7 @@ short_bio: >-
   <p>
     I am a Ph.D. candidate in Applied Demography at the University of Texas at San Antonio, where I work in life course in Multimorbidity (Multiple Chronic Diseases) among US Older adults
     under the supervision of Dr. Fernando Riosmena. My research foucuses how childhood disadvantages impacts on onset of Multimorbidity among US older adults, and midlife advantages and 
-    disadvantages has mediating effect in this association over time, foreign-born vs US-born older adults in the US. Additionally, I want to compare cross-nationally to investigate the 
+    disadvantages has mediating effect in this association over time, among foreign-born vs US-born older adults in the US. Additionally, I want to compare cross-nationally to investigate the 
     cumulative disadavantges how it works for foreign-born vs US-born by considering two different country contexts.
   </p>
   <p>
@@ -32,7 +32,12 @@ short_bio: >-
     Student Appreciate Week Research (GSAW) Symposium; TexasPOP and International Conference on Aging in the Americas(ICAA).
   </p>
   <p>
-    After joining UTSA, I worked as a Diversity, Equity, and Inclusion Summer Research Intern at American Institutes for Research 
+    After joining UTSA, I worked as a Diversity, Equity, and Inclusion Summer Research Intern at American Institutes for Research, where I applied survey methodology and demographic analysis 
+    to internal DEI datasets, contributing to organizational reports, policy briefs, and a manuscript on cultural/linguistic competence frameworks in survey design and delivery data-informed 
+    DEI presentations for cross-functional staff; supported DEI symposium planning and facilitated orientation sessions. I also participated in the Cultural and Linguistic Competence Survey 
+    Design and Methodology workshop. Additionally, I have received a scholarship for the Summer Institute on Longitudinal Data Analysis at The Methodology Center, Purdue University, West Lafayette,
+    IN for taking 
+  
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -43,31 +48,31 @@ education:
 - name: The University of Texas at San Antonio
   logo: /assets/images/badges/ut-san-antonio-crest.svg
   position: >- 
-    Department of Computer Science <br/>
+    Department of Sociology and Demography <br/>
     Ph.D. Candidate 
-  date: Jan. 2023 - present
-- name: The University of Texas at San Antonio
-  logo: /assets/images/badges/ut-san-antonio-crest.svg
-  position: M.S. in Computer Science (CGPA - 4.00)
-  date: Jan. 2023 - Jul. 2026
+  date: August. 2023 - present
 - name: University of Dhaka
   logo: /assets/images/badges/Dhaka_University_logo.svg
-  position: B.Sc. in Computer Science & Engineering (CGPA - 3.37)
-  date: Jan 2015-Jan 2019
+  position: M.A. in Philosophy (CGPA - 4.00 - FCSS)
+  date: Jan. 2019 - Feb. 2020
+- name: University of Dhaka
+  logo: /assets/images/badges/Dhaka_University_logo.svg
+  position: B.A. in Philosophy (CGPA - 4.00 - FCSS)
+  date: Jan. 2015- Dec. 2018
 
 experience:
   - name: University of Texas at San Antonio
     logo: /assets/images/badges/ut-san-antonio-crest.svg
     position: Graduate Research Assistant
-    date: Jan. 2023 - Present
-  - name: Bangladesh Bank
+    date: August. 2023 - Present
+  - name: American Institutes for Research
     logo: /assets/images/badges/bb-logo.png
-    position: Data Engineer
-    date: Nov. 2020 - Dec. 2023
-  - name: Robi Axiata Ltd.
+    position: Diversity, Equity, and Inclusion Summer Research Intern
+    date: Jun. 2024 - August. 2024
+  - name: The Methodology Center, Purdue University, West Lafayette, IN
     logo: /assets/images/badges/robi-axiata-logo.png
-    position: Data Engineer
-    date: May. 2020 - Nov. 2020
+    position: Summer Institute on Longitudinal Data Analysis -- Scholarship Recipient
+    date: Jul. 2026 - Jul. 2026
 
 # awards:
 # - name: Award Name 2
