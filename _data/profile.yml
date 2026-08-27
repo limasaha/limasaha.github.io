@@ -11,7 +11,7 @@ positions:
 email: "limasaha.nag@gmail.com"
 cv_link: 
 gscholar: M4jaqvcAAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: Jyotinag
+github: limasaha
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -22,7 +22,7 @@ orcid: 0009-0004-4672-8758
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. candidate in Computer Science at the University of Texas at San Antonio, where I work in the San Antonio Virtual Environment Lab (SAVE Lab)
+    I am a Ph.D. candidate in Applied Demography at the University of Texas at San Antonio, where I work in Multimorbidity
     under the supervision of Dr. John Quarles. My research sits at the intersection 
     of extended reality and artificial intelligence, focusing on cybersickness prediction, cognitive load estimation, and 
     affective modeling in VR using multimodal physiological signals and deep learning.
